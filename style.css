@@ -283,8 +283,6 @@ footer{
     }
     nav{
         display: inline-flex;
-        align-items: flex-end;
-        justify-content: flex-end;
         flex-direction: column;
         padding: 0.2rem 3rem 0.2rem 0.2rem;
         margin: 0.2rem;
