@@ -306,4 +306,8 @@ footer{
     nav:hover #ul span{
         display: none;
     }
+    .card{
+        width:15vw;
+        height:15vw;
+    }
 }
