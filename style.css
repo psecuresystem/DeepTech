@@ -117,6 +117,7 @@ a:hover{
     background-color: rgb(93, 176, 204);
     box-shadow: 5px 5px 8px 1px rgba(50,50,50,0.5);
     border-radius: 20px;   
+    margin-bottom:15px;
 }
 .card:hover{
     background-color: #0f0;
