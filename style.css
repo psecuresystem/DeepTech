@@ -35,7 +35,7 @@ nav ul span h2{
     transform: translateY(30%);
 }
 .head{
-    background-image: linear-gradient(to right bottom,rgba(50,50,50,0.5),rgba(50,50,50,0.53)),url('../Assets/bg.webp');
+    background-image: linear-gradient(to right bottom,rgba(50,50,50,0.5),rgba(50,50,50,0.53)),url('./bg.webp');
     width:97vw;
     height: 80vh;
     background-size:contain;
@@ -164,7 +164,7 @@ a:hover{
 }
 .image{
     background-color:white;
-    background-image: url('../Assets/advert2.jpeg');
+    background-image: url('./advert2.jpeg');
     background-position:center;
     background-repeat:no-repeat;
 }
@@ -179,7 +179,7 @@ a:hover{
 .contact-us-container{
     width: 100%;
     height: 80vh;
-    background-image: linear-gradient(to right top,rgba(48, 124, 89, 0.5),rgba(48, 124, 89, 0.501)),url('../Assets/map.jpeg');
+    background-image: linear-gradient(to right top,rgba(48, 124, 89, 0.5),rgba(48, 124, 89, 0.501)),url('./map.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
