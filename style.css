@@ -9,7 +9,7 @@ header{
 nav{
     background-color: #fff;
     position:sticky;
-    display:flex;
+    display:flex; 
     justify-content:space-between;
 }
 nav ul{
