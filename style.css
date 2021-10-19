@@ -121,7 +121,7 @@ a:hover{
 }
 .card::after{
     content:'';
-    padding-bottom:100%;
+    padding-bottom:0%;
 }
 .card:hover{
     background-color: #0f0;
