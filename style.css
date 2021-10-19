@@ -76,7 +76,7 @@ a:hover{
 }
 .services{
     margin-top: 50px;
-    display: flex;
+    display: flex; 
     width: 100%;
     max-height:300vh;
     justify-content: space-around;
@@ -293,7 +293,7 @@ footer{
     
     .burger{
         display: inline-flex;
-        visibility: visible;
+        visibility: visible; 
     }
     nav:hover #ul{
         top:1.5rem;
